@@ -4,6 +4,7 @@ public class TestUserProfile {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
+        // my name is marwan this is the change im making
         System.out.print("Enter your name: ");
         String name = scanner.nextLine();
 
